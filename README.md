@@ -1,2 +1,2 @@
-# netflix_apperency_competition
-Notebooks
+# Netflix Appetency
+Kaggle competition
